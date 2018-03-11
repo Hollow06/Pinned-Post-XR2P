@@ -1,0 +1,522 @@
+Xiaomi Redmi 2 Prime
+Welcome everyone , this group is about the phone model , [Redmi 2/prime] and everything related to it ,..
+Model ;
+2014811/12/17/18/19/21 - wt88047
+2014813/16/112 - wt86047
+Note : Custom ROMs are same for 88 and 86 model , But be careful while flashing TWRP and MIUI ROMs .
+××× Normal user Don't go beyond here ×××
+Note : Report Broken links ..
+Last Edited - [23/11/2017]
+------------------------------------------------------------------------
+Welcome ,
+*** Ultimate Rooting To Flashing guide ;
+If you don't know anything related to (root/flash) and how to do it , visit here link : http://forum.xda-developers.com/…/ultimate-guide-redmi-2-us…
+*** Xiaomi Redmi 2/Prime Index ;
+link : http://forum.xda-developers.com/…/index-xiaomi-redmi-2-t330…
+.
+.
+1. Official XDA Redmi 2/Prime thread ;
+link : http://forum.xda-developers.com/redmi-2
+2. Official MIUI forum Redmi 2/Prime Thread ;
+link : http://en.miui.com/forum.php…
+.
+.
+3. Root KitKat based MIUI ;
+link : http://en.miui.com/thread-158213-1-1.html
+4. Root Lollipop based MIUI (Developer/Stable) ;
+link : http://en.miui.com/thread-223314-1-1.html
+.
+.
+5. Install TWRP and Restore Stock recovery ;
+Download Official TWRP img files from here ;
+link : https://dl.twrp.me/wt88047/
+TWRP 3.1.1-0 
+link : https://forum.xda-developers.com/…/recovery-twrp-touch-reco…
+Twrp 3.0.2-0
+link : http://en.miui.com/thread-249552-1-1.html
+Twrp 2.8.6.1
+link : http://en.miui.com/thread-114090-1-1.html
+.
+.
+6. All TWRP and Kernels ;
+* TWRPs ;
+* TWRP 3.1.1-0 
+link : https://forum.xda-developers.com/…/recovery-twrp-touch-reco…
+* TWRP 3.0.2 - Modded [Kumajaya/Rivvai]
+link : https://docs.google.com/folderview…
+* TWRP 3.0.2-0 -
+link : http://en.miui.com/thread-249552-1-1.html
+* TWRP 3.0 -
+link : http://en.miui.com/thread-228118-1-1.html
+* TWRP 2.8.7.1 -
+link : http://forum.xda-developers.com/…/recovery-twrp-2-8-7-1-the…
+* TWRP 2.8.6.1 -
+link : http://forum.xda-developers.com/…/recovery-twrp-2-8-6-1-xia…
+.
+.
+* Kernels ;
+* Jerrica Kernel -
+link : http://forum.xda-developers.com/…/kernel-jerrica-v1-1-t3395…
+* Berserk Kernel -
+link : http://forum.xda-developers.com/…/kernel-berserk-kernel-t33…
+* Zetsubou Kernel -
+link : http://forum.xda-developers.com/…/kernel-zetsubou-17-dec-t3…
+* Hyper Kernel -
+link : http://forum.xda-developers.com/…/kernel-hyper-kernel-t3520…
+* Undine-X -
+link : http://forum.xda-developers.com/…/undine-h20-kernel-x1-1-0-…
+* RazorReborn -
+link : http://forum.xda-developers.com/…/22-11-razorreborn-v1-0-t3…
+* God's Kernel -
+link : http://forum.xda-developers.com/…/kernel-gods-kernel-r1-t32…
+* Elix1R Kernel -
+link : http://forum.xda-developers.com/…/kernel-elix1r-kernel-t334…
+* Octupus Kernel - 
+link : http://forum.xda-developers.com/…/kernel-octopus-kernel-v2-…
+* The Late Autumn project -
+link : http://forum.xda-developers.com/…/kernel-lateautumn-project…
+* The Dopest thing -
+link : http://forum.xda-developers.com/…/kernel-thedopestthing6-x-…
+* HexaTurbo 
+link : https://forum.xda-developers.com/…/kernel-hexawinter-perfor…
+* ZPX project
+link : http://zeroprojectx.blogspot.in/…/zero-projectx-kernel-for-…
+.
+.
+7. Xposed For KitKat MIUI ;
+link : 
+http://repo.xposed.info/mo…/de.robv.android.xposed.installer
+Note : install the App and just press Install/update in App itself
+8. Xposed for lollipop MIUI (Developer/Stable) ;
+link : http://forum.xda-developers.com/…/unofficial-xposed-miui-t3…
+Note : install App and flash the zip . Done !
+9. Xposed for any other Custom ROM based on 5.x/6.x/7.x ;
+link : http://forum.xda-developers.com/showthread.php?t=3034811
+.
+.
+10. MIUI latest ROM [Global](Stable/Developer) ;
+* Redmi 2 Prime -
+link : http://en.miui.com/extra.php…
+* Redmi 2 -
+link : http://en.miui.com/extra.php…
+11. MIUI latest ROM [China](Stable/Developer) ;
+* Redmi 2 Prime -
+link : http://en.miui.com/extra.php…
+* Redmi 2 -
+link : http://en.miui.com/extra.php…
+.
+.
+12. Fastboot Method ;
+* Fastboot Flashing Guide
+link : http://en.miui.com/a-232.html
+* Fastboot ROM Download 
+link : http://en.miui.com/a-234.html
+.
+.
+13. All Custom ROMs ;
+link : https://forum.xda-developers.com/…/custom-roms-xiaomi-redmi…
+14. List of All (almost) Custom ROMs ;
+link : http://en.miui.com/thread-118846-1-1.html
+15. List of All LP and MM Custom ROMs by Zeus™ ;
+link : http://forum.xda-developers.com/…/available-custom-marshmal…
+16. List of all (most) custom Roms by Zeus™ ;
+link : http://forum.xda-developers.com/showpost.php…
+17. List of all Custom Kernels by Zeus™ ;
+link : http://forum.xda-developers.com/showpost.php…
+.
+.
+19. Multi ROM [Multi boot]
+link : http://forum.xda-developers.com/…/development/mod-multirom-…
+Warning - Dangerous Procedure , Follow On your own Risk
+Note : Our Device also supports Dual Boot Patcher so you can try that one too for Dual booting ROMs
+link : https://dbp.noobdev.io/
+.
+.
+20. Multi Dev MIUI 8 ROM [Xiaomi.eu]
+link : https://xiaomi.eu/comm…/forums/miui-weekly-rom-releases.103/
+21. MultiRom
+link : https://multirom.me/index.php?m=app&a=view&id=53&app=roms
+22. OpenGapps [GoogleApps]
+link : www.opengapps.org
+23. Official Lineage OS 14.1+ [wt88047] ;
+link : https://download.lineageos.org/wt88047
+24. Official Resurrection Remix 5.8.4+ ;
+link : https://forum.xda-developers.com/…/redmi-2-resurrection-rem…
+---------------------------------------------------------------------------
+Disclaimer : The credits for all the above works goes to the respective Developers/teams that works For our benefit ..
+Will be updated Regularly depending upon things added ...
+---------------------------------------------------------------------------
+Below this is The list of all Custom ROMs for our Redmi 2/Prime , first Recorded on the Date , 22/05/2016 ...
+Happy Flashing ;
+List of Custom Roms [All] 
+Device - Redmi 2 / Prime
+***[Oreo] :
+1. AOSP experimental
+link : https://forum.xda-developers.com/…/rom-aosp-oreo-redmi-2-t3…
+2. GZOSP Beta
+link : https://androidfilehost.com/?fid=962021903579491189
+3. AIM system 3.0
+link : https://androidfilehost.com/?fid=745849072291687520
+4. AICP 13.0
+link : https://androidfilehost.com/?fid=889964283620755099
+5. Colt OS
+link : https://androidfilehost.com/?w=files&flid=223325
+.
+--------------------------------------------------------------------------
+.
+***[Nougat] :
+1. Lineage OS 14.1+ [Official] ®
+link : https://download.lineageos.org/wt88047
+2. Resurrection Remix 5.8.3+ [Official] ®
+link : https://forum.xda-developers.com/…/redmi-2-resurrection-rem…
+Resurrection Remix 5.8.0 [Official][Discontinued] ®
+link : https://forum.xda-developers.com/…/resurrection-remix-7-x-t…
+3. AICP [Official]
+link : http://dwnld.aicp-rom.com/?device=wt88047
+4. Tesla 3.4 beta [Official] ®
+link : http://forum.xda-developers.com/…/rom-tesla-rom-3-0-beta-t3…
+5. Mokee [Official]
+link : https://download.mokeedev.com/?device=wt88047
+6. CrDroid 7.0
+link : http://forum.xda-developers.com/…/rom-crdroid-7-0-0-t3476463
+7. Cyanogen Mod 14.1 [by NickNitewolf] 
+link : http://forum.xda-developers.com/…/rom-cyanogenmod-14-0-t347…
+8. AOSP 7.0 [Substratum Ready]
+link : http://forum.xda-developers.com/…/rom-aosp-oms-substratum-r…
+9. AospExtended ROM 
+link : http://forum.xda-developers.com/…/rom-aospextended-rom-v1-1…
+10. ZephyrOS [Official]
+link : http://forum.xda-developers.com/…/rom-officialaosp-dui-oms-…
+11. BeanstalkDu 7.0
+link : http://forum.xda-developers.com/re…/development/rom-t3476801
+12. CyanogenMod 14/SudaMod [7.1]
+link : http://forum.xda-developers.com/…/rom-cyanogenmod-14-chines…
+13. Dirty Unicorns v11
+link : http://forum.xda-developers.com/…/rom-dirty-unicornsredmi-2…
+14. Cardinal AOSP
+link : http://forum.xda-developers.com/…/rom-cardinal-aosp-t3516449
+15. AOSCP 
+link : https://www.androidfilehost.com/?w=files&flid=138854
+16. Carbon 
+link : https://www.androidfilehost.com/?w=files&flid=160409
+17. Cardinal-AOSP v2
+link : https://www.androidfilehost.com/?w=files&flid=130892
+18. CrDROID 
+link : https://www.androidfilehost.com/?w=files&flid=138824
+19. Paranoid 
+link : https://www.androidfilehost.com/?w=files&flid=159152
+20. PureNexus 
+link : https://www.androidfilehost.com/?w=files&flid=169233
+21. Reaper 
+link : https://www.androidfilehost.com/?w=files&flid=141669
+22. Slim 
+link : https://www.androidfilehost.com/?w=files&flid=140186
+23. Xenon HD 
+link : https://www.androidfilehost.com/?w=files&flid=95135
+24. XOS (Halogen OS) 
+link : https://www.androidfilehost.com/?w=files&flid=141919
+25. AOSP-CAF (ARM64) 
+link : https://www.androidfilehost.com/?w=files&flid=168928
+26. Xperience 
+link : https://www.androidfilehost.com/?w=files&flid=145544
+27. XOSP 
+link : https://www.androidfilehost.com/?w=files&flid=141385
+28. Glaze OS 
+link : https://www.androidfilehost.com/?w=files&flid=164001
+29. Firehound
+link : https://www.androidfilehost.com/?w=files&flid=143196
+30. Validus N 
+link : https://www.androidfilehost.com/?w=files&flid=138328
+31. Tipsy N 
+link : https://www.androidfilehost.com/?w=files&flid=143968
+32. AOSIP 
+link : http://get.aosiprom.com/wt88047/
+link : https://forum.xda-developers.com/…/d…/oms-aosip-5-5-t3552771
+33. Selfish OS 
+link : https://www.androidfilehost.com/?w=files&flid=153064
+34. All in one GZR thread 
+link : https://forum.xda-developers.com/…/rom-tesla-rom-3-0-beta-t…
+35. Aim ROM
+link : https://forum.xda-developers.com/…/dev…/rom-aim-rom-t3618788
+36. OctOS
+link : https://forum.xda-developers.com/…/rom-team-octos-oct-n-t36…
+37. Citrus-CAF
+link : https://forum.xda-developers.com/…/…/rom-citrus-caf-t3555049
+38. CosmicOS
+link : https://forum.xda-developers.com/…/de…/rom-cosmicos-t3603109
+39. ViperOS
+link : https://download.viper-os.com/wt88047/
+40. Legend ROM
+link : https://forum.xda-developers.com/…/rom-legendrom-17-0-…/amp/
+41. Darkness Redefined
+link : https://forum.xda-developers.com/…/rom-darkness-redefined-t…
+42. Nuclea ROM
+link : https://forum.xda-developers.com/…/d…/rom-nuclearom-t3621145
+43. Resurrection Remix 5.8.4 [Unofficial]
+link : https://drive.google.com/…/0B_-34wIlvElAZnBqWm5RY1Rsa2M/view
+44. AOSPA
+link : https://forum.xda-developers.com/…/rom-aospa-7-1-0-dev-para…
+45. DOT N
+link : https://androidfilehost.com/?w=files&flid=225980
+46. Colt OS
+link : https://androidfilehost.com/?w=files&flid=223328
+.
+---------------------------------------------------------------------------
+.
+***[Marshmallow] :
+1. Ressurection Remix 5.7.4 ®
+link : http://forum.xda-developers.com/…/redmi-2-resurrection-remi…
+2. CyanogenMod 13 [official] Nightly ®
+link : http://forum.xda-developers.com/…/rom-cyanogenmod-unofficia…
+3. Cyanogen Mod 13.1 [Snapshot] ®
+link : http://xiaomitips.com/…/cyanogenmod-v13-1-based-on-android…/
+4. CrDroid - 1
+link : http://forum.xda-developers.com/…/rom-crdroid-marshmallow-6…
+5. CrDroid - 2
+link : http://forum.xda-developers.com/…/devel…/crdroid-mm-t3351451
+6. Temasek CyanogenMod 13
+link : http://forum.xda-developers.com/…/rom-temaseks-cm13-0-build…
+7. Nexus Experience 10.4 ®
+link : http://nxrom.us/redmi2.html
+8. AICP [official]
+link : http://forum.xda-developers.com/re…/development/rom-t3277061
+9. Blisspop
+link : http://forum.xda-developers.com/re…/development/rom-t3280656
+10. Dirty unicorns 
+link : http://forum.xda-developers.com/…/rom-dirty-unicorns-10-0-t…
+11. CyanPop [official]
+link : http://forum.xda-developers.com/…/development/rom-cyanpop-v…
+12. Tesla ROM [official]
+link : http://forum.xda-developers.com/…/de…/rom-tesla-rom-t3330248
+13. HTC Remix 3.5
+link : http://forum.xda-developers.com/…/htc-remix-ver-iii-t3319337
+14. Vanir AOSP
+link : http://forum.xda-developers.com/…/rom-vanir-aosp-wt88047-t3…
+15. CAF AOSP
+link : http://forum.xda-developers.com/…/devel…/cafaosp6-0-t3260869
+16. AOKP [Unofficial]
+link : http://forum.xda-developers.com/r…/development/aokp-t3512534
+17. OrionOS [Official]
+link : http://forum.xda-developers.com/…/developm…/orionos-t3320181
+18. BrokenOS
+link : http://en.miui.com/thread-223696-1-1.html
+19. TipsyOS
+link : http://forum.xda-developers.com/…/developm…/tipsyos-t3308343
+20. Z-Rom
+link : http://forum.xda-developers.com/…/how-…/6-0-1-z-rom-t3296647
+21. Mokee ROM 
+link : http://download.mokeedev.com/?device=wt88047
+22. XOSP ®
+link : http://forum.xda-developers.com/re…/development/rom-t3358364
+23. GzRoms Validus [Official]
+link : http://forum.xda-developers.com/…/rom-gzroms-validus-9-0-t3…
+24. Mod X MM ®
+link : http://forum.xda-developers.com/…/cm13-mod-x-mm-wt88047-t33…
+25. Zephyr-OS
+link : http://forum.xda-developers.com/…/rom-zephyr-os-wt88047-ube…
+26. CandySIX v3.0
+link : http://forum.xda-developers.com/…/rom-candysix-v2-3-t3391608
+27. Slim 6 ROM
+link : http://forum.xda-developers.com/…/rom-slim-6-redmi-2-t34082…
+28. CypherOS
+link : http://forum.xda-developers.com/…/rom-cypheros-2-3-redmi-2-…
+29. Project-X
+link : http://forum.xda-developers.com/…/rom-project-x-audiophile-…
+30. MIUI 6.9.29 [Marshmallow based]
+link : http://forum.xda-developers.com/…/miui-6-9-29-marshmallow-c…
+31. PAC ROM [Unofficial]
+link : http://forum.xda-developers.com/…/deve…/rom-pac-rom-t3405839
+32. AOSP [Unofficial]
+link : http://forum.xda-developers.com/re…/development/rom-t3394656
+33. Audiophile - ProjectX
+link : https://forum.xda-developers.com/…/rom-project-x-audiophile…
+.
+---------------------------------------------------------------------------
+.
+***[Lollipop] :
+1. CyanogenMod 12.1 ®
+link : http://forum.xda-developers.com/…/rom-cyanogenmod-unofficia…
+2. Resurrection Remix 5.5.9
+link : http://forum.xda-developers.com/…/rom-resurrection-remix-5-…
+3. Xperia Z5
+link : http://forum.xda-developers.com/…/rom-xperia-z5-rom-remi-2s…
+4. Flyme OS ®
+link : http://en.miui.com/thread-282089-1-1.html
+5. Mokee ROM 
+link : http://forum.xda-developers.com/…/rom-mokee-redmi2-prime-t3…
+6. Nexus Experience 9.8.2
+link : http://forum.xda-developers.com/…/roms-nexus-experience-rel…
+7. SUDAmod
+link : http://forum.xda-developers.com/…/rom-sudamod1-1-v4-0-t3260…
+8. Blisspop 4.0.3
+link : http://en.miui.com/thread-167129-1-1.html
+9. Liquid Dark
+link : http://en.miui.com/thread-179480-1-1.html
+10. XenonHD
+link : http://en.miui.com/thread-169646-1-1.html
+11. YIOS
+link : http://en.miui.com/thread-162920-1-1.html
+12. PAC- man ROM 
+link : http://www.gizdev.com/pac-man-lollipop-rom-for-xiaomi-redm…/
+13. Hybreed ROM [CM 12.1] [Mod X LP]
+link : http://forum.xda-developers.com/…/cm-12-1-hybreed-rom-redmi…
+14. Rise UI V2.2 [MIUI 6.5.12 based]
+link : http://forum.xda-developers.com/…/lp-rise-ui-prime-v2-miui-…
+15. Zen UI lite [CM 12.1 based]
+link : http://forum.xda-developers.com/…/cm-12-1-zen-ui-lite-redmi…
+16. Zen UI 
+link : http://en.miui.com/thread-287841-1-1.html
+17. Sailfish OS [CM 12.1]
+link : http://forum.xda-developers.com/…/rom-sailfishos-2-0-1-11-r…
+18. Color OS 3.0 (64bit)
+link : https://mega.nz/…
+Color OS 2.1.0
+link : http://en.miui.com/thread-288340-1-1.html
+19. Vivo FunTouch OS V2.5
+link : http://en.miui.com/thread-298232-1-1.html
+20. XTRV beta1 [MIUI 8 based]
+link : http://forum.xda-developers.com/re…/development/rom-t3308843
+21. Xiaomi.eu ROM 
+link : https://xiaomi.eu/comm…/forums/miui-weekly-rom-releases.103/
+.
+---------------------------------------------------------------------------
+.
+***[KitKat] :
+1. CyanogenMod 11 ®
+link : http://forum.xda-developers.com/…/hm201481x-cyanogenmod-11-…
+2. Lenovo VIBE UI
+link : http://forum.xda-developers.com/…/rom-official-lenovo-vibe-…
+3. sMIUI
+link : http://forum.xda-developers.com/…/rom-smiui-rom-kitchen-maj…
+4. CrDroid
+link : http://en.miui.com/thread-118962-1-1.html
+5. Mokee ROM 
+link : http://en.miui.com/thread-138747-1-1.html
+6. VIVO fun touch OS ®
+link : http://en.miui.com/thread-114149-1-1.html
+7. Flyme OS
+link : http://en.miui.com/thread-105108-1-1.html
+8. AOKP
+link : http://en.miui.com/thread-113629-1-1.html
+9. PAC - ROM 
+link : http://en.miui.com/thread-100672-1-1.html
+10. Carbon ROM 
+link : http://en.miui.com/thread-132923-1-1.html
+11. BaiduYun OS
+link : http://en.miui.com/thread-106844-1-1.html
+12. Lewa OS5
+link : http://en.miui.com/thread-80793-1-1.html
+13. Nubia UI 2.6
+link : http://en.miui.com/thread-103682-1-1.html
+14. FIUI 2.80 beta
+link : http://en.miui.com/forum.php…
+15. ColorOS 2.0.1
+link : http://www.cyanogenmods.org/…/coloros-2-0-1-kitkat-rom-red…/
+16. MEUI ROM 
+link : http://en.miui.com/thread-143327-1-1.html
+17. TencentOS 
+link : http://en.miui.com/thread-193346-1-1.html
+---------------------------------------------------------------------------
+Disclaimer : Credits to Respective Developers and teams
+Prepared by - Virat Uchiha
+---------------------------------------------------------------------------
+Edit Log :
+[20/06/2016]
+- Added TWRP (3.0.2-0/3.0.2 mod)
+- Updated TWRP 3.0 Link 
+- Added Jerrica Kernel
+- Added CM 13.1 snapshot
+[01/07/2016]
+- Fixed Twrp 3.0.2 modded Link
+- Introduced ® [Recommended] Section - [ROMs tagged ® is Recommended for you to Try]
+- Updated few ROM Links
+[06/07/2016]
+- Added New Roms ;
+* Multi ROM
+* Mod X MM ®
+* Zen UI ®
+* Hybreed ROM [Mod X LP]
+* Rise UI
+* Zen UI lite
+* CandySIX 
+* Slim 6
+* Zephyr-OS 
+* CypherOS 
+- Added Multi Dev ROM [MIUI 8]
+- Added Sailfish OS [CM 12.1]
+- Added ColorOS 2.1.0
+- Added FIUI 2.80
+- Added Vivo FunTouch OS v2.5
+- Added TencentOS
+- Added Flyme OS 5.1.6.6R [Official]
+[01/10/2016]
+- Removed Duplicated Links 
+- Removed Unwanted Links
+- Added Fastboot link
+- Updated Links
+[16/10/2016]
+- Added Android Nougat Builds
+* CrDroid 7.0
+* Tesla 3.0
+* CyanogenMod 14
+[07/11/2016]
+- Added New Nougat ROMs
+* DU v11
+* Beanstalk
+* CM 14.1 
+* AOSP
+* AospExtended
+* Zephyr-OS
+* AICP [Official]
+- Removed Expired Links
+- Added Fastboot Method [Tutorial/ROM]
+[20/12/2016]
+- Added New Roms
+* Cyanogen Mod 14.1 [Official]
+* Resurrection Remix [Nougat][Official]
+* Cardinal AOSP
+* XTRV beta1
+* MIUI 6.9.29 [marshmallow][unofficial]
+* Project-X
+* PAC ROM
+* AOSP [Unofficial]
+- Added New Kernels
+* Zetsubou Kernel
+* The late autumn project
+* The Dopest thing
+* Hyper Kernel
+- Updated ROM links
+[22/12/2016]
+- Added Mokee [Official][Nougat]
+[12/06/2017] 
+- Added 25 New Nougat Roms 
+- Link given for New TWRP 3.1.1-0
+- Updated few links
+- Added HexaTurbo kernel
+- Added ZPX kernel project
+- Added Lineage OS links 
+- Added ColorOS 3.0 [LP]
+[15/07/2017]
+- Added New ROMs
+* Darkness Redefined
+* Nuclea ROM
+* Viper OS
+* Legend ROM
+* Project X
+- Updated outdated links 
+- Fixed Broken links
+[22/09/2017]
+- Added AOSP 8.0
+- Added MuitiRom link
+[24/09/2017]
+- Added GZOSP 8.0
+- Updated few Invalid links
+[23/11/2017]
+- Added Aim OS 8.0
+- Added AICP 13.0
+- Added Colt OS 8.0
+- Added DOT N
+- Added Colt N
+- Added RR Unofficial
+- revamped some links
+- updated few invalid links
